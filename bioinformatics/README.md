@@ -6,9 +6,7 @@ Tutor: Diego Mariano
 
 ## Descrição
 
-'''
-Proteínas são macromoléculas presentes em todos os seres vivos. Conhecer sua estrutural tridimensional é vital para compreender sua função. Entretanto, métodos experimentais para obtenção de estruturas tridimensionais ainda são caros. Neste curso apresentamos métodos computacionais para obtenção de estruturas 3D de proteínas. Nas aulas são construídos modelos usando dois diferentes programas: MODELLER (execução local) e SWISS-MODEL (execução online).
-'''
+Proteínas são macromoléculas presentes em todos os seres vivos. Conhecer sua estrutural tridimensional é vital para    compreender sua função. Entretanto, métodos experimentais para obtenção de estruturas tridimensionais ainda são caros. Neste curso apresentamos métodos computacionais para obtenção de estruturas 3D de proteínas. Nas aulas são construídos modelos usando dois diferentes programas: MODELLER (execução local) e SWISS-MODEL (execução online).
 
 ## O que você aprenderá
  
